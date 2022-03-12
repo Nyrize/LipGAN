@@ -22,7 +22,7 @@ A new, improved work that can produce significantly more accurate and natural re
 
 Prerequisites
 -------------
-- Python >= 3.5
+- Python >= 3.7
 - ffmpeg: `sudo apt-get install ffmpeg`
 - Install necessary packages using `pip install -r requirements.txt`
 - Install keras-contrib `pip install git+https://www.github.com/keras-team/keras-contrib.git`
